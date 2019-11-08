@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "RaptorSA is a multi function bot, you can listen music, manage roles, get various informations and many other things :)",
   "main": "index.js",
-  "token": "NjM3NjExMDE0MzAwMzY4ODk2.XcUexw.u5sxOzlhB4qyuuG39C3y1SM1Ocg",
+  "token": "process.env.token",
   "author": "Cramenorn",
   "prefix": "$",
   "dependencies": {
