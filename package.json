@@ -13,7 +13,7 @@
     "fotology-x": "^1.2.4",
     "get-json": "^1.0.0",
     "geolib": "^2.0.24",
-    "googleapis": "^32.0.0",
+    "googleapis": "^39.1.0",
     "google-search-results-nodejs": "^0.0.1",
     "jimp": "^0.3.5",
     "moment": "^2.22.2",
